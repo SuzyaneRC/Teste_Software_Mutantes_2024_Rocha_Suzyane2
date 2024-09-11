@@ -1,0 +1,13 @@
+aaindex
+numpy
+pandas
+# scipy==1.7.3
+scipy
+delayed
+# scikit-learn==0.24.1
+scikit-learn
+requests>=2.25.0
+matplotlib
+seaborn
+tqdm
+protpy
